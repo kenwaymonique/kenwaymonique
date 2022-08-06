@@ -9,4 +9,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kenwaymonique&show_icons=true&theme=radical" />
 </a>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenwaymonique&layout=compact)]
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenwaymonique&layout=compact)
